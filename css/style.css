@@ -2073,6 +2073,8 @@ body {
           align-items: center;
 }
 
+
+
 .cards-news__tematic a {
   border: 1px solid #12182A;
   border-radius: 6px;
@@ -3357,6 +3359,10 @@ button.swiper-pagination-bullet {
         -ms-flex-direction: column;
             flex-direction: column;
     
+  }
+
+  .cards-news__date {
+    margin-top:20px;
   }
 
   .cards-news__text {
