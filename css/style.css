@@ -2192,7 +2192,6 @@ body {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  
   margin-bottom: 16px;
   font-weight: 400;
   font-size: 18px;
@@ -3346,11 +3345,7 @@ button.swiper-pagination-bullet {
   }
 }
 
-@media (max-width: 380px) {
-  .text-contacts .personal-dates__btn {
-    width: 290px;
-  }
-}
+
 
 @media (max-width: 350px) {
   .cards-news__info {
@@ -3483,6 +3478,12 @@ button.swiper-pagination-bullet {
 
   .form-contacts {
     margin-top: 50px;
+  }
+}
+
+@media (max-width: 380px) {
+  .text-contacts .personal-dates__btn {
+    width: 290px;
   }
 }
 
